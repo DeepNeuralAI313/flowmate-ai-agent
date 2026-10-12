@@ -105,7 +105,7 @@ FlowMate AI was validated using automated test suites and real browser testing:
 ## Proof It Works
 
 - **GitHub Repository:** [https://github.com/DeepNeuralAI313/flowmate-ai-agent](https://github.com/DeepNeuralAI313/flowmate-ai-agent)
-- **Local Application:** Hosted and running locally on FastAPI at `http://127.0.0.1:8000`.
+- **Local Application:** Hosted and running locally on FastAPI at `localhost:8000`.
 - **Live Tool Execution:** Every chat interaction renders transparent execution badges demonstrating real underlying tool calls.
 
 ---

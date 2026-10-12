@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+*.log
+
+# Sensitive Credentials & Local State
+.env
+.env.local
+backend/data/*.json
+!backend/data/tasks.example.json
+
+# Node & Frontend
+node_modules/
+dist/
+.DS_Store
+Thumbs.db

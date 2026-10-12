@@ -1,0 +1,35 @@
+[
+  {
+    "id": "task-1",
+    "title": "Finalize client website redesign",
+    "description": "Complete responsive layout adjustments and test contact form submission.",
+    "priority": "URGENT",
+    "estimated_minutes": 90,
+    "deadline": "Today, 5:00 PM",
+    "status": "IN_PROGRESS",
+    "category": "Client Work",
+    "created_at": "2026-10-12T10:00:00Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Send monthly retainer invoices (Acme & Globex)",
+    "description": "Generate PDF invoices in QuickBooks and dispatch via email.",
+    "priority": "HIGH",
+    "estimated_minutes": 30,
+    "deadline": "Today, 6:00 PM",
+    "status": "PENDING",
+    "category": "Finance",
+    "created_at": "2026-10-12T10:15:00Z"
+  },
+  {
+    "id": "task-3",
+    "title": "Attend design sync with engineering team",
+    "description": "Review v2 dashboard wireframes and answer design spec questions.",
+    "priority": "HIGH",
+    "estimated_minutes": 45,
+    "deadline": "Today, 3:00 PM",
+    "status": "PENDING",
+    "category": "Meetings",
+    "created_at": "2026-10-12T10:30:00Z"
+  }
+]
